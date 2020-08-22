@@ -22,6 +22,9 @@ Running the multiconnection client...
 
 ## TCP Sockets
 
+Sockets TCP Flow
+![alt text](https://github.com/hotasalah/Socket-programming-in-Python/blob/master/sockets-tcp-flow.1da426797e37.jpg)
+
 Why using TCP? The Transmission Control Protocol (TCP):
 
 Is reliable: packets dropped in the network are detected and retransmitted by the sender.
