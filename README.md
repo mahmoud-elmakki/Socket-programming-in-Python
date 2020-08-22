@@ -7,5 +7,15 @@ Sockets and the socket API are used to send messages across a network. They prov
 ## echo client and server
 
 Running the echo server...
-![alt text](https://github.com/hotasalah/Socket-programming-in-Python/blob/master/echo-server.py)
+![alt text](https://github.com/hotasalah/Socket-programming-in-Python/blob/master/echo%20server.png)
 
+Running the echo Clent...
+![alttext](https://github.com/hotasalah/Socket-programming-in-Python/blob/master/echo%20client.png)
+
+Multiconnection client and server
+
+Running the multiconnection server...
+![alt text](https://github.com/hotasalah/Socket-programming-in-Python/blob/master/multiconnection%20server.png)
+
+Running the multiconnection client...
+![alt text](https://github.com/hotasalah/Socket-programming-in-Python/blob/master/multiconnection%20client.png)
