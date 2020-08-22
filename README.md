@@ -19,3 +19,12 @@ Running the multiconnection server...
 
 Running the multiconnection client...
 ![alt text](https://github.com/hotasalah/Socket-programming-in-Python/blob/master/multiconnection%20client.png)
+
+## TCP Sockets
+
+Why using TCP? The Transmission Control Protocol (TCP):
+
+Is reliable: packets dropped in the network are detected and retransmitted by the sender.
+
+Has in-order data delivery: data is read by your application in the order it was written by the sender
+
