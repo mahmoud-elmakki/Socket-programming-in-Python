@@ -17,6 +17,8 @@ Running the echo client...
 
 ## Multiconnection client and server
 
+![alt text](https://github.com/hotasalah/Socket-programming-in-Python/blob/master/sockets-ethernet-interface.aac312541af5.jpg)
+
 Running the multiconnection server...
 ![alt text](https://github.com/hotasalah/Socket-programming-in-Python/blob/master/multiconnection%20server.png)
 
