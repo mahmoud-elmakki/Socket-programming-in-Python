@@ -6,6 +6,8 @@ Sockets and the socket API are used to send messages across a network. They prov
 
 ## echo client and server
 
+sockets-loopback-interface.44fa30c53c70.jpg
+
 Running the echo server...
 ![alt text](https://github.com/hotasalah/Socket-programming-in-Python/blob/master/echo%20server.png)
 
@@ -25,7 +27,8 @@ Running the multiconnection client...
 Sockets TCP Flow
 ![alt text](https://github.com/hotasalah/Socket-programming-in-Python/blob/master/sockets-tcp-flow.1da426797e37.jpg)
 
-Why using TCP? The Transmission Control Protocol (TCP):
+#### Why using TCP?
+The Transmission Control Protocol (TCP):
 
 Is reliable: packets dropped in the network are detected and retransmitted by the sender.
 
