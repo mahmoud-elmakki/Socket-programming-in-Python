@@ -6,7 +6,7 @@ Sockets and the socket API are used to send messages across a network. They prov
 
 ## echo client and server
 
-sockets-loopback-interface.44fa30c53c70.jpg
+![alt text](https://github.com/hotasalah/Socket-programming-in-Python/blob/master/sockets-loopback-interface.44fa30c53c70.jpg)
 
 Running the echo server...
 ![alt text](https://github.com/hotasalah/Socket-programming-in-Python/blob/master/echo%20server.png)
